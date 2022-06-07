@@ -1,0 +1,5 @@
+-We can load data of Invoice table -the left table- on the left side through File then Load
+-On selecting "by one click" one row of Invoice table its related data will be displayed in the Invoice Item table on the right side
+In textFields Date and Customer Name on the upper right side their initially values shown are default values
+
+Note: Invoice Number user can not create, edit, or delete it each invoice has unique invoice number.
