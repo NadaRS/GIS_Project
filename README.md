@@ -30,7 +30,9 @@ Run the project from "App" Class in "org.example package"
 
       then start entering the date and customer name in textFiels above "Invoice Items" Table
       
-      then enter the items data in the "Invoice Items" Table the enter
+      then enter the items data in the "Invoice Items" Table --------->  then press "Enter" from keyboard,
+      
+      another row is displayed automatically to add new item and so on after starting entering data in a given row another empty one will be shown
       
       then "Save" button to save it to its file or cancel it.
       
